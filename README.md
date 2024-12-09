@@ -34,13 +34,13 @@
 ![Upload Images](assets/upload.png)
 
 ### 2. Annotated Images
-![Annotated Images](assets/annotated Images.png)
+![Annotated Images](assets/annotated_Images.png)
 
 ### 3. Analytics Dashboard
-![Analytics Dashboard](assets/analytics Dashboard.png)
+![Analytics Dashboard](assets/analytics_Dashboard.png)
 
 ### 4. Export Options
-![Export Options](assets/export options.png)
+![Export Options](assets/export_options.png)
 
 ## File Structure
 ```
