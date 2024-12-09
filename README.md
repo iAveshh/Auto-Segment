@@ -31,16 +31,16 @@
 
 ## Screenshots
 ### 1. Upload Images
-![Upload Images](assets/upload_images.png)
+![Upload Images](assets/upload.png)
 
 ### 2. Annotated Images
-![Annotated Images](assets/annotated_images.png)
+![Annotated Images](assets/annotated Images.png)
 
 ### 3. Analytics Dashboard
-![Analytics Dashboard](assets/analytics_dashboard.png)
+![Analytics Dashboard](assets/analytics Dashboard.png)
 
 ### 4. Export Options
-![Export Options](assets/export_options.png)
+![Export Options](assets/export options.png)
 
 ## File Structure
 ```

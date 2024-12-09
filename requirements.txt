@@ -1,0 +1,12 @@
+streamlit==1.28.0
+ultralytics==8.0.196
+supervision==0.16.0
+torch
+torchvision
+numpy
+opencv-python-headless
+Pillow
+plotly
+pandas
+dicttoxml
+pycocotools
